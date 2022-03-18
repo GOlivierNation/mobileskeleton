@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-[Click here to view web](https://GOlivierNation.github.io/portfolio/)
+[Click here to view web]()
 
 ## Author
 
