@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-[Click here to view web](https://goliviernation.github.io/mobileskeleton/)
+[Web View](https://goliviernation.github.io/mobileskeleton/)
 
 ## Author
 
