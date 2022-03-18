@@ -31,6 +31,7 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
+[Web View](https://goliviernation.github.io/mobileskeleton/)
 
 
 ## Author
