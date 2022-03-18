@@ -1,14 +1,10 @@
 # My-Portfolio
 
-
-# 
+#
 
 > This project is about setting up my portfolio's mobile version skeleton.
 
 ![setup m-version skeleton](./photos/shots/screenshot1.png)
-
-
-
 
 Additional description about the project and its features.
 
@@ -16,7 +12,6 @@ Additional description about the project and its features.
 
 - html
 - css
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -31,8 +26,8 @@ To get a local copy up and running follow these simple example steps.
 ### Run tests
 
 ### Deployment
-[Web View](https://goliviernation.github.io/mobileskeleton/)
 
+[Web View](https://goliviernation.github.io/mobileskeleton/)
 
 ## Author
 
